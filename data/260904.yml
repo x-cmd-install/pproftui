@@ -7,7 +7,7 @@ about:
   head: d94a02c
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:38:35Z
+  collectedAt: 2026-09-04T20:53:12Z
 timeline:
   created: 2025-06-18
   lastCommit: 2025-07-28
@@ -80,5 +80,23 @@ total:
   openIssue: 1
   commit: 61
 ---
+path: /home/runner/.x-repo/github.com/Oloruntobi1/pproftui
+collectedAt: 2026-09-04T20:53:13Z
+loc:
+  Go:
+    code: 2104
+    comments: 207
+    blanks: 347
+    files: 9
+  Markdown:
+    code: 0
+    comments: 87
+    blanks: 29
+    files: 1
+total:
+  code: 2104
+  comments: 294
+  blanks: 376
+  files: 10
 ---
 
